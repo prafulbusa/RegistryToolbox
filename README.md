@@ -66,7 +66,7 @@ When the 2 files are loaded you are going to see the tool like this
 ![image](https://user-images.githubusercontent.com/8367687/140198106-a2dad93a-ef3a-47af-96de-3698dba6c22c.png)
 
 
-You can customize the name of the registry for example on the left i wrote Working and on the right Not Working. 
+You can customize the name of the registry for example on the left i wrote Not Working and on the right side - Working. 
 
 As well you can see the file path open 
 
